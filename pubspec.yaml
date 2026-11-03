@@ -1,5 +1,5 @@
 name: sensor_stream
-description: LAB08 sensor_stream: Provider and WebSocket practical lab.
+description: 'LAB08 sensor_stream: Provider and WebSocket practical lab.'
 publish_to: none
 version: 1.0.0+1
 environment:
