@@ -1,0 +1,16 @@
+# Flutter generated and local settings
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+.metadata
+android/.gradle/
+android/local.properties
+.step_backups/
+lib_mywork/
+.venv/
+__pycache__/

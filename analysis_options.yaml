@@ -1,0 +1,5 @@
+analyzer:
+  exclude:
+    - checkpoints/**
+    - solution/**
+    - .step_backups/**
